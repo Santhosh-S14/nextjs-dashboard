@@ -9,3 +9,8 @@ A Next.js project to learn main features of next.js by building a full stack app
 - Created routes using file-system routing
 - A common layout that can be shared between mutiple pages
 - Partial rendering, Colocation and root layout concepts
+- Navigating between pages using Link component
+  - Client side navigation
+  - from next/link
+  - Automatic code splitting and prefetching
+- usePathname hook for getting the current path the user is in and apply css based on condition using clsx
