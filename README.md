@@ -20,5 +20,16 @@ This is the starter template for the Next.js App Router Course. It contains the 
 - Fetched data using server components / actions
 - Rendered the data in the dashboard
   - Saw about the concept of request waterfall and how to improve performance to solve all the requests parallely
+- Static vs Dynamic rendering
+  - Static rendering
+    - Faster websites
+    - Reduced server loads
+    - SEO
+  - Dynamic rendering
+    - Real-time data
+    - User specific content
+    - Request time information
+  - Can be made dynamic using unstable_nostore from next/cache
+  - Added noStore to all the server action calls
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
