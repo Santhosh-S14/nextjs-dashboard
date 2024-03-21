@@ -6,3 +6,6 @@ A Next.js project to learn main features of next.js by building a full stack app
 - Global css styling && Tailwind && clsx for conditional styling
 - Added custom fonts using next/font module and google fonts
 - Added Image component from next/image module for better optimization of images
+- Created routes using file-system routing
+- A common layout that can be shared between mutiple pages
+- Partial rendering, Colocation and root layout concepts
