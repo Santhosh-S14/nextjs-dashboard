@@ -14,5 +14,8 @@ This is the starter template for the Next.js App Router Course. It contains the 
   - from next/link
   - Automatic code splitting and prefetching
 - usePathname hook for getting the current path the user is in and apply css based on condition using clsx
+- Added the next js project to Vercel and deployed it
+- Created a Postgres storage via Vercel and included the details of the db in .env file
+- Seeded the database with inital data
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
